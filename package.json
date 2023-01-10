@@ -5,6 +5,6 @@
     "postman-request": "^2.88.1-postman.31"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node ./src/server.js"
  }
 }
